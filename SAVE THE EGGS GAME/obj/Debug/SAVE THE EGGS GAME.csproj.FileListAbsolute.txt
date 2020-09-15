@@ -1,0 +1,35 @@
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\bin\Debug\SAVE THE EGGS GAME.exe.config
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\bin\Debug\SAVE THE EGGS GAME.exe
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\bin\Debug\SAVE THE EGGS GAME.pdb
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.csprojAssemblyReference.cache
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Properties.Resources.resources
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.csproj.GenerateResource.cache
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.csproj.CoreCompileInputs.cache
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.exe
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.pdb
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Form_Game.resources
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Form_Introduction.resources
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\bin\Debug\SAVE THE EGGS GAME.exe.config
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\bin\Debug\SAVE THE EGGS GAME.exe
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\bin\Debug\SAVE THE EGGS GAME.pdb
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Form_Game.resources
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Form_HighScores.resources
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Form_Introduction.resources
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Properties.Resources.resources
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.csproj.GenerateResource.cache
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.csproj.CoreCompileInputs.cache
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.exe
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.pdb
+C:\Users\JCM\Desktop\SAVE-THE-EGGS-GAME-master\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.csprojAssemblyReference.cache
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\bin\Debug\SAVE THE EGGS GAME.exe.config
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\bin\Debug\SAVE THE EGGS GAME.exe
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\bin\Debug\SAVE THE EGGS GAME.pdb
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.csprojAssemblyReference.cache
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Form_Game.resources
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Form_HighScores.resources
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Form_Introduction.resources
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE_THE_EGGS_GAME.Properties.Resources.resources
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.csproj.GenerateResource.cache
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.csproj.CoreCompileInputs.cache
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.exe
+C:\Users\JCM\Desktop\SAVE THE EGGS GAME\SAVE THE EGGS GAME\obj\Debug\SAVE THE EGGS GAME.pdb
